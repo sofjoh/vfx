@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GabrielAguiarProductions/Scenes/Projectiles01_Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,365 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.856; Version 2009; 64bit' Language: 'sv' Physical Memory: 16150 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/sofie/Unity Personal/VFX
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51435
+Successfully changed project path to: C:/Users/sofie/Unity Personal/VFX
+C:/Users/sofie/Unity Personal/VFX
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sofie/Unity Personal/VFX/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   
+    VRAM:     12142 MB
+    Driver:   30.0.15.1295
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001365 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.876 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001378 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 64.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3908 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.5 MB.
+System memory in use after: 189.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4360.
+Total: 3.445400 ms (FindLiveObjects: 0.805700 ms CreateObjectMapping: 0.569200 ms MarkObjects: 1.987800 ms  DeleteObjects: 0.081500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab
+  artifactKey: Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab using Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1014d5f5d2f45dc52fe86f34b1e969c0') in 0.041593 seconds
+  Import took 0.047336 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.820 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.6 MB.
+System memory in use after: 174.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4363.
+Total: 2.045200 ms (FindLiveObjects: 0.251200 ms CreateObjectMapping: 0.102000 ms MarkObjects: 1.674200 ms  DeleteObjects: 0.017000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.149805 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab
+  artifactKey: Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab using Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f942544130c2a099967c921365429e4b') in 0.028322 seconds
+  Import took 0.035611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.765599 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab
+  artifactKey: Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab using Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f942544130c2a099967c921365429e4b') in 0.004182 seconds
+  Import took 0.009408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.473265 seconds.
+  path: Assets/GabrielAguiarProductions/Materials/CircleAddScroll.mat
+  artifactKey: Guid(c4a4ab8ce65bf9e4eb70465c1c3172ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Materials/CircleAddScroll.mat using Guid(c4a4ab8ce65bf9e4eb70465c1c3172ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a599d6b54237b076375ff26b63622b') in 0.520218 seconds
+  Import took 0.526693 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001390 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3616 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 187.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4534.
+Total: 2.489400 ms (FindLiveObjects: 0.424600 ms CreateObjectMapping: 0.158000 ms MarkObjects: 1.889300 ms  DeleteObjects: 0.016800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.981377 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab
+  artifactKey: Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab using Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb77d5dc73ec44939a0025df1b3ffe1') in 0.033215 seconds
+  Import took 0.038515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.516864 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab
+  artifactKey: Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Hit_v1.prefab using Guid(7248756f74ea13649acb09b4d51e7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb77d5dc73ec44939a0025df1b3ffe1') in 0.003973 seconds
+  Import took 0.009177 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001414 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.849 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.2 MB.
+System memory in use after: 186.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4537.
+Total: 2.844600 ms (FindLiveObjects: 0.545100 ms CreateObjectMapping: 0.203600 ms MarkObjects: 2.036200 ms  DeleteObjects: 0.056700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2154.568022 seconds.
+  path: Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx
+  artifactKey: Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx using Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9093577f290b66fef2d50f9688f300d7') in 0.538624 seconds
+  Import took 0.545857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.686013 seconds.
+  path: Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx
+  artifactKey: Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx using Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f18b1686f7e51832b2982b695967b13') in 0.023884 seconds
+  Import took 0.029507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.733512 seconds.
+  path: Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx
+  artifactKey: Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx using Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcfe836541308630e9270255ff18544d') in 0.024974 seconds
+  Import took 0.031095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007090 seconds.
+  path: Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx
+  artifactKey: Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Models/MuzzleMesh01.fbx using Guid(0d0ed0175582b5642a56e0e88e7c92e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcfe836541308630e9270255ff18544d') in 0.028077 seconds
+  Import took 0.033379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 411.028090 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab
+  artifactKey: Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab using Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f589066a14a21889d8cc9a52498a66') in 0.015293 seconds
+  Import took 0.022142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001240 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab
+  artifactKey: Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab using Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f589066a14a21889d8cc9a52498a66') in 0.004193 seconds
+  Import took 0.009327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.771133 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab
+  artifactKey: Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab using Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eb728f52c4f23bbafdb7a798d331b19') in 0.004808 seconds
+  Import took 0.010633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 373.640877 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab
+  artifactKey: Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Muzzle_v1.prefab using Guid(0a1671cb6c9ce524bb166f7aa57212df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8196ab5673c59757dd4fe2124211c814') in 0.005708 seconds
+  Import took 0.015538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.124100 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Projectile_v1.prefab
+  artifactKey: Guid(5d1f8c976a72bcf4989d0cf568cc5f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Projectile_v1.prefab using Guid(5d1f8c976a72bcf4989d0cf568cc5f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356bbf08a3c16c123c1a93cca59b9b9e') in 0.012174 seconds
+  Import took 0.018630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006295 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Projectile_v1.prefab
+  artifactKey: Guid(5d1f8c976a72bcf4989d0cf568cc5f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/vfx_Projectile_v1.prefab using Guid(5d1f8c976a72bcf4989d0cf568cc5f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356bbf08a3c16c123c1a93cca59b9b9e') in 0.007158 seconds
+  Import took 0.013904 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001496 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.8 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4647.
+Total: 2.780600 ms (FindLiveObjects: 0.440000 ms CreateObjectMapping: 0.189500 ms MarkObjects: 2.117200 ms  DeleteObjects: 0.032200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2099.833152 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/Projectile Electric
+  artifactKey: Guid(a53da58c88b3a214e8c80995f13cc7b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/Projectile Electric using Guid(a53da58c88b3a214e8c80995f13cc7b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c1ee416c7c0113090b56af752af7a5') in 0.012921 seconds
+  Import took 0.020479 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.8 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4650.
+Total: 2.440900 ms (FindLiveObjects: 0.288600 ms CreateObjectMapping: 0.111100 ms MarkObjects: 2.024400 ms  DeleteObjects: 0.015700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.621475 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/Projectile Electric/vfx_Projectile_Electric_v1.prefab
+  artifactKey: Guid(0ccc0843d2f6b5146996718fbafc84a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/Projectile Electric/vfx_Projectile_Electric_v1.prefab using Guid(0ccc0843d2f6b5146996718fbafc84a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1920b5a8a4cbf51ca2da0faf72c589') in 0.036129 seconds
+  Import took 0.044121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 231.943126 seconds.
+  path: Assets/GabrielAguiarProductions/Prefabs/Projectile/Projectile Electric/vfx_Projectile_Electric_v1.prefab
+  artifactKey: Guid(0ccc0843d2f6b5146996718fbafc84a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GabrielAguiarProductions/Prefabs/Projectile/Projectile Electric/vfx_Projectile_Electric_v1.prefab using Guid(0ccc0843d2f6b5146996718fbafc84a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa7d0d79eaff53ec1a8fff0817c1ea1') in 0.007786 seconds
+  Import took 0.014509 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.9 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4653.
+Total: 2.482600 ms (FindLiveObjects: 0.339000 ms CreateObjectMapping: 0.138100 ms MarkObjects: 1.986600 ms  DeleteObjects: 0.017600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
